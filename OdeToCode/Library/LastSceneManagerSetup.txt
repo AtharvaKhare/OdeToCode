@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/Screens/WelcomeScreen.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Screens/LoginScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Screens/QuestionAnswerScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Screens/ResultScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Screens/Everyone's result.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Screens/Password Management.unity
+  isLoaded: 0
+  isActive: 0
