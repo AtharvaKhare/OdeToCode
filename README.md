@@ -4,6 +4,11 @@ If you need any help in setting up this project or understanding the code, feel 
 
 Marking scheme for MCQ was +4 for right answer, +8 for wrong answer. +1 for skip. Actual score considered was deviation (from ideal score). There is no option provided to go back.
 
+![alt tag](https://github.com/AtharvaKhare/OdeToCode/blob/master/Screenshot/Login%20Screen.png)
+![alt tag](https://github.com/AtharvaKhare/OdeToCode/blob/master/Screenshot/MCQ%20-%201.png)
+![alt tag](https://github.com/AtharvaKhare/OdeToCode/blob/master/Screenshot/MCQ%20-%202.png)
+![alt tag](https://github.com/AtharvaKhare/OdeToCode/blob/master/Screenshot/Admin%20Login%20-%20Passwords.png)
+
 Directions to use the pre-built program:
 The target resolution was 1366 x 768. Other resolutions would need proper scaling.
 Store the folder /OdeToCodeFinalBuilds/unity3d in the persistent data path of Linux or /OdeToCodeFinalBuilds/unity3d/AtharvaKhare of MacOS.
