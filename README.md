@@ -1,4 +1,4 @@
-This project was developed for round 1 of Ode To Code event for “Techtonic 2k17” at Sinhagad Institutes, Vadgaon. It was used by about 100 students. It features User Authentication and complete MCQ test program include loading database externally, storing encrypted scores externally, countdown timer, database builder and results screen + password screen for administrator login.
+This project was developed for round 1 of Ode To Code event for “Techtonic 2k17” at Sinhagad Institutes, Vadgaon. It was used by about 100 students. It features User Authentication and complete MCQ exam program that includes loading database externally, storing encrypted scores externally, countdown timer, database builder, and results screen + password screen for administrator login.
 This project was completed in about 30 hours due to time constraints, hence the code has scope for improvement in efficiency.
 If you need any help in setting up this project or understanding the code, feel free to email me at khareatharva [ at ] gmail [ dot ] com.
 
